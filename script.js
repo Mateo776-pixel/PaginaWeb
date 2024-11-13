@@ -18,7 +18,7 @@ const comentariosDiccionario = {
 // Lista de cuentas de Instagram
 const cuentas = [
     "stailyspencer", "justingriffindc", "ale.rojasig7", "_pinto.martin", 
-    "Roberto.Madero97", "lera.juli20"
+    "Roberto.Madero97", "lera.juli20","Alexander.zaratee","Alejoo.nfz"
 ];
 
 // Función para generar comentarios aleatorios para cada cuenta
